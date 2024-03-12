@@ -1,0 +1,5 @@
+runtime: python38
+entrypoint: streamlit run app.py
+instance_startup_timeout_sec: 600
+readiness_check:
+  path: "/custom_health_check"
