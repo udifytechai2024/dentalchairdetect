@@ -2,4 +2,4 @@ fastapi
 opencv-python 
 matplotlib
 ultralytics
-streamlit
+streamlit~=1.2.0
