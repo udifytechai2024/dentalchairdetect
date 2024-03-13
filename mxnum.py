@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# pylint: disable=missing-module-docstring
+
 import os
 import re
 # import matplotlib.pyplot as plt
