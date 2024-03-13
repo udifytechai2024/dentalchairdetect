@@ -1,4 +1,2 @@
 streamlit
 ultralytics==8.1.19
-opencv-python-headless
-libgl1-mesa-glx
