@@ -2,7 +2,6 @@ fastapi
 matplotlib
 ultralytics
 streamlit~=1.2.0
-opencv-python
 opencv-python-headless
 click<8.0,>=7.0
 pip>=24.0
