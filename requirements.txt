@@ -3,3 +3,6 @@ matplotlib
 ultralytics
 streamlit~=1.2.0
 opencv-python
+libgl1-mesa-glx
+opencv-python-headless
+mesa-libGL
