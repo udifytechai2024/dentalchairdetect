@@ -1,7 +1,6 @@
 # pylint: disable=missing-module-docstring
 import os
 import re
-import matplotlib.pyplot as plt
 
 def image_pathimg():
     # Define the base path
