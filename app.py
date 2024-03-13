@@ -4,7 +4,7 @@ from mxnum import image_pathimg
 
 # Define a function to perform YOLO prediction and save the annotated image
 def perform_yolo_prediction(image_path):
-    # Define the path to your trained model file
+    # Define the path togcl your trained model file
     model_path = "best.pt"
 
     # Create a YOLO object instancedocker 
