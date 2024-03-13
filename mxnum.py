@@ -104,6 +104,3 @@ def image_pathimg():
         print(f"Image displayed from: {img_path}")
         return img_path
 
-
-image_pathimg()
->>>>>>> fddd6b15ce801b393b41415a770bbf53aedc8787
