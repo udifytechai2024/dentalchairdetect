@@ -1,6 +1,5 @@
 import streamlit as st
 from ultralytics import YOLO
-import os
 from mxnum import image_pathimg
 
 # Define a function to perform YOLO prediction and save the annotated image
