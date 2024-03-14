@@ -16,4 +16,4 @@ COPY . .
 EXPOSE 8501
 
 # Command to run the Streamlit app
-CMD  streamlit run --server.port 8501 --server.enableCORS false app.py
+CMD  streamlit run --server.port 8501 app.py
