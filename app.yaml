@@ -1,10 +1,6 @@
 runtime: python39
 env: flex
 
-# Add this line to allow traffic from any source
-inbound_services:
-  - '*'
-  
 resources:
   cpu: 1
   memory_gb: 2
