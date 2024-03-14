@@ -10,7 +10,7 @@ resources:
   memory_gb: 2
   disk_size_gb: 20 
 
-entrypoint: streamlit run app.py --server.port $PORT
+entrypoint: streamlit run app.py
 
 automatic_scaling:
   max_num_instances: 1
